@@ -49,7 +49,7 @@ SmartWaste 360 provides a complete automated ecosystem:
      - **Non-Biodegradable (`'N'`)**: Servo rotates to **135°** for 3 seconds.
      - **Rest Position**: Flap returns to **90°** standby position.
    - **HC-SR04 Ultrasonic Sensor**: Measures real-time bin fill distance (cm) and computes fill percentage:
-     $$\text{fill\_percent} = \frac{\text{bin\_height\_cm} - \text{distance\_cm}}{\text{bin\_height\_cm}} \times 100$$
+     $$\text{Fill Percentage (\%)} = \left( \frac{\text{Bin Height (cm)} - \text{Sensor Distance (cm)}}{\text{Bin Height (cm)}} \right) \times 100$$
 
 ---
 
