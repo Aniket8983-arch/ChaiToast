@@ -6,9 +6,10 @@ SmartWaste 360 is a commercial-grade, professional waste-management SaaS platfor
 
 ## 🔗 Quick Links & Live Demos
 
-- **🚀 Live Deployed Dashboard**: [https://smartwaste-360.vercel.app](https://smartwaste-360.vercel.app) *(or local server at `http://localhost:5173/`)*
+- **🖥️ GitHub Repository**: [https://github.com/Aniket8983-arch/ChaiToast](https://github.com/Aniket8983-arch/ChaiToast)
 - **📺 Video Demonstration**: [Watch SmartWaste 360 System Demo on YouTube](https://youtu.be/h0qdp-59xE0?si=aAVTMuuholssLX5Q)
 - **🧠 Trained AI Model Download**: [Download waste_model.h5 on Google Drive](https://drive.google.com/file/d/1iK7jvSfYGHCvXhUvm1KGsVtuS3Wo4Z-w/view?usp=sharing)
+- **💻 Local Dashboard Server**: `http://localhost:5173/` *(Follow local installation steps below)*
 
 > [!NOTE]
 > **Trained AI Model Storage Notice**: Due to file size limitations on remote repositories, the trained model (`waste_model.h5`) is hosted externally. Please download it from the Google Drive link above and place it in the project directory at `models/waste_model.h5`.
