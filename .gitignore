@@ -75,3 +75,14 @@ desktop.ini
 
 # ----- Alembic -----
 alembic/versions/__pycache__/
+# Camera test images
+images/capture_*.jpg
+images/test_capture.jpg
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
